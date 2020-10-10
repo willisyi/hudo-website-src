@@ -1,0 +1,26 @@
+baseURL = "https://willisyi.github.io/website/"
+languageCode = "en-us"
+title = "八仔驿站"
+theme = "m10c"
+
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+  [[menu.main]]
+    identifier = "tags"
+    name = "Tags"
+    url = "/tags/"
+  [[menu.main]]
+    identifier = "About"
+    name = "关于"
+    url = "/about"
+
+[params]
+  author = "Chay Guo"
+  description = "学习笔记与技术分享Blog."
+  menu_item_separator = " - "
+  [[params.social]]
+    name = "github"
+    url = "https://github.com/willisyi"

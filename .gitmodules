@@ -1,0 +1,6 @@
+[submodule "themes/m10c"]
+	path = themes/m10c
+	url = https://github.com/vaga/hugo-theme-m10c
+[submodule "public"]
+	path = public
+	url =  https://github.com/willisyi/website.git
